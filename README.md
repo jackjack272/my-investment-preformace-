@@ -21,3 +21,4 @@ The app will handle the rest!
 
 	
 	I hope it brings you value and happiness throught the minutes saved by not manually inputting the data :)
+	ps. Im still pretty green to indipendent projects so forgive the amature coding. 
